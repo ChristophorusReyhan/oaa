@@ -46,7 +46,7 @@
       "02"
       {
         "var_type"                                        "FIELD_FLOAT"
-        "damage_absorb"                                   "110 140 170 200 350 500"
+        "damage_absorb"                                   "1100 1400 1700 2000 3500 5000"
         "LinkedSpecialBonus"                              "special_bonus_unique_abaddon"
       }
       "03"
