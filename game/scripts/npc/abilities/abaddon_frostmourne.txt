@@ -32,24 +32,24 @@
       "03"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "slow_pct"                                        "8 12 16 20 24 30"
+        "slow_pct"                                        "10 15 20 25 30 37"
         "LinkedSpecialBonus"                              "special_bonus_unique_abaddon_3"
       }
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "attack_slow_tooltip"                             "8 12 16 20 24 30"
+        "attack_slow_tooltip"                             "10 15 20 25 30 37"
         "LinkedSpecialBonus"                              "special_bonus_unique_abaddon_3"
       }
       "05"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "move_speed_pct"                                  "15"
+        "move_speed_pct"                                  "30"
       }
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "attack_speed"                                    "10 20 30 40 50 60"
+        "attack_speed"                                    "100 200 250 250 250 250"
       }
     }
   }
