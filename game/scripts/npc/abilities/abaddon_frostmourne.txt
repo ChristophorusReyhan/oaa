@@ -44,7 +44,7 @@
       "05"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "move_speed_pct"                                  "30"
+        "move_speed_pct"                                  "20"
       }
       "06"
       {
