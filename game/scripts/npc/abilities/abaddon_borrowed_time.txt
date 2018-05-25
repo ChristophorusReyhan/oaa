@@ -33,7 +33,7 @@
       "01"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "hp_threshold"                                    "400"
+        "hp_threshold"                                    "4000"
       }
       "02"
       {
